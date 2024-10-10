@@ -190,7 +190,7 @@ const init = () => {
     W = ctx.canvas.width = innerWidth;
     H = ctx.canvas.height = innerHeight;
     turn=0;
-    stat=(window.confirm("Mau lihat isi love3 nya?"));
+    stat=(window.confirm("Cippp sayang Mau lihat isi love3 nya?"));
     ropes=[];
     ropes.push(new Rope(W*0.5, H*0.25,1,"hotpink",0.2));
     //ropes.push(new Rope(W*0.25, H*0.25,5,"cyan"));
